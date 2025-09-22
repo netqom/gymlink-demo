@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "name": "PowerFit Gym",
+    "category": "Gym",
+    "location": "Sydney",
+    "price": 45,
+    "services": ["Personal Training", "Group Classes", "Sauna", "Pool", "24/7 Access"],
+    "vibe": "Performance & Intensity",
+    "description": "High-intensity training facility with state-of-the-art equipment",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+  },
+  {
+    "id": 2,
+    "name": "Zen Yoga Studio",
+    "category": "Yoga",
+    "location": "Melbourne",
+    "price": 35,
+    "services": ["Hot Yoga", "Meditation", "Yoga Mats", "Tea Lounge"],
+    "vibe": "Calm & Wellness",
+    "description": "Peaceful yoga sanctuary in the heart of Melbourne",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+  },
+  {
+    "id": 3,
+    "name": "BoxFit Academy",
+    "category": "Boxing",
+    "location": "Brisbane",
+    "price": 40,
+    "services": ["Boxing Classes", "Personal Training", "Sparring", "Fitness Testing"],
+    "vibe": "Performance & Intensity",
+    "description": "Professional boxing training with experienced coaches",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?w=400"
+  },
+  {
+    "id": 4,
+    "name": "Pilates Pro",
+    "category": "Pilates",
+    "location": "Perth",
+    "price": 50,
+    "services": ["Reformer Pilates", "Mat Pilates", "Private Sessions", "Prenatal Classes"],
+    "vibe": "Calm & Wellness",
+    "description": "Expert Pilates instruction for all fitness levels",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+  },
+  {
+    "id": 5,
+    "name": "FitHub Community",
+    "category": "Gym",
+    "location": "Adelaide",
+    "price": 30,
+    "services": ["Group Classes", "Childcare", "Nutrition Counseling", "Social Events"],
+    "vibe": "Community & Support",
+    "description": "Friendly neighborhood gym with strong community focus",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=400"
+  },
+  {
+    "id": 6,
+    "name": "TechFit Studio",
+    "category": "Gym",
+    "location": "Sydney",
+    "price": 55,
+    "services": ["VR Workouts", "AI Personal Training", "Wearable Integration", "Smart Equipment"],
+    "vibe": "Modern & Tech-Forward",
+    "description": "Cutting-edge fitness technology meets traditional training",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+  },
+  {
+    "id": 7,
+    "name": "FlexLife Fitness",
+    "category": "Gym",
+    "location": "Gold Coast",
+    "price": 25,
+    "services": ["Flexible Hours", "Online Classes", "Mobile App", "Home Workouts"],
+    "vibe": "Flexibility & Lifestyle",
+    "description": "Work out on your schedule with maximum flexibility",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=400"
+  },
+  {
+    "id": 8,
+    "name": "Mindful Movement",
+    "category": "Yoga",
+    "location": "Canberra",
+    "price": 32,
+    "services": ["Vinyasa Flow", "Yin Yoga", "Breathwork", "Workshops"],
+    "vibe": "Calm & Wellness",
+    "description": "Holistic approach to yoga and mindful movement",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+  },
+  {
+    "id": 9,
+    "name": "Mindful Movement Canberra",
+    "category": "Yoga",
+    "location": "Canberra",
+    "price": 32,
+    "services": ["Vinyasa Flow", "Yin Yoga", "Breathwork", "Workshops"],
+    "vibe": "Calm & Wellness",
+    "description": "Holistic approach to yoga and mindful movement",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+  },  
+  {
+    "id": 10,
+    "name": "Zen Yoga Studio Sydney",
+    "category": "Yoga",
+    "location": "Sydney",
+    "price": 35,
+    "services": ["Hot Yoga", "Meditation", "Yoga Mats", "Tea Lounge"],
+    "vibe": "Calm & Wellness",
+    "description": "Peaceful yoga sanctuary in the heart of Melbourne",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+  },
+  {
+    "id": 11,
+    "name": "Pilates Pro GYm",
+    "category": "Gym",
+    "location": "Perth",
+    "price": 50,
+     "services": ["Personal Training", "Group Classes", "Sauna", "Pool", "24/7 Access"],
+    "vibe": "Calm & Wellness",
+    "description": "Expert Pilates instruction for all fitness levels",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+  }
+   
+]

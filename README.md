@@ -42,19 +42,20 @@ App → `http://localhost:3000`
 * Filters: category, vibe, price range, services
 * Natural language search (e.g. `cheap yoga in Melbourne with Meditation`)
 * Card  views for results
-* Bot : Try below terms=>
-        How much price in Perth ?
-        what gym in Perth ?
-        best gym in Perth ? 
-        Hi, how are you?
-        What is GymLink?
-        Cheap yoga in Melbourne with meditation 
-        Help me find fitness options
-        What categories do you have? 
-        Thank you for your help
-        Goodbye
-* Responsive layout (desktop + mobile)
 
+* Responsive layout (desktop + mobile)
+ --
+## Bot : Try below terms 
+        * How much price in Perth ?
+        * what gym in Perth ?
+        * best gym in Perth ? 
+        * Hi, how are you?
+        * What is GymLink?
+        * Cheap yoga in Melbourne with meditation 
+        * Help me find fitness options
+        * What categories do you have? 
+        * Thank you for your help
+        * Goodbye
 ---
 
 ## 📡 API
